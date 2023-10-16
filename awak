@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Mengisi tinggi layar penuh */
+  }
+
+  /* Ini hanya untuk contoh tampilan */
+  .content {
+    text-align: center;
+    background-color: #5cc6f7;
+    padding: 20px;
+  }
+
+  body {
+    background-image: url(download.jpg);
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="content">
+    <h1>THX!!!</h1>
+    <p>Selamat berpusyeng-pusyeng</p>
+  </div>
+</div>
+</body>
+</html>
